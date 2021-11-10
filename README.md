@@ -104,7 +104,7 @@ $ ./build.sh
 
 ...
 
-[INFO] Building jar: /Users/cjoakim/github/azure-java-servicebus-logicapp/servicebusdemo/target/servicebusdemo-1.0-SNAPSHOT.jar
+[INFO] Building jar: /Users/roghos/github/azure-java-servicebus-logicapp/servicebusdemo/target/servicebusdemo-1.0-SNAPSHOT.jar
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
